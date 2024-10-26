@@ -31,7 +31,7 @@ The dataset was generated with the help of chatgpt-4o and has the following stru
     R: The problem is a binary classification problem, where we need to predict whether a transaction is fraudulent or not
 
 2. Check which algorithms we can use for resolution
-    R: Random forest, SVM, Logistic Regression, Naive Bayes, Neural networks (RNN) and KNN
+    R: Random forest, SVM, Logistic Regression, Naive Bayes, Neural networks and KNN
 
 3. Check if there are values ​in the dataframe that could interfere with the result
     R: The data was generated through a chatgpt prompt, so we know that the structure already comes with well-filled data, only needing to categorize textual data, such as: Transaction Location, Card Owner's Gender, payment history, purchase category, day of the week the purchase occurred.
